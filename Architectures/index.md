@@ -2,7 +2,7 @@
 
 ## Index
 
-- [Back](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main)
+- [Back](https://dvgodoy.github.io/dl-visuals)
 - [Alexnet](#alexnet)
 - [LeNet](#lenet)
 - [Inception](#inception)

@@ -2,7 +2,7 @@
 
 ## Index
 
-- [Back](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main)
+- [Back](https://dvgodoy.github.io/dl-visuals)
 - [Attention](#attention)
 	- [Scaled Dot Product](#scaled-dot-product)
 	    - [Alignment Scores](#alignment-scores)
