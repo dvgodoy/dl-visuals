@@ -1,5 +1,7 @@
 # Architectures
 
+[Back](https://dvgodoy.github.io/dl-visuals)
+
 ## Index
 
 - [Alexnet](#alexnet)
@@ -10,6 +12,8 @@
 - [ResNet](#resnet)
     - [Residual Block](#residual-block)
 
+### **** CLICK ON THE IMAGES FOR FULL SIZE ****
+
 ## Papers
 
 - Alexnet: [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) by Krizhevsky, A. et al. (2012)
@@ -19,14 +23,14 @@
 
 ## Alexet
 
-![](alexnet.png)
+[![](alexnet.png)](https://dvgodoy.github.io/dl-visuals/Architectures/alexnet.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 Generated using Alexander Lenail's [NN-SVG](http://alexlenail.me/NN-SVG/).
 
 ## LeNet
 
-![](architecture_lenet.png)
+[![](architecture_lenet.png)](https://dvgodoy.github.io/dl-visuals/Architectures/architecture_lenet.png)
 *Source: [Chapter 5](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter05.ipynb)*
 
 Generated using Alexander Lenail's [NN-SVG](http://alexlenail.me/NN-SVG/).
@@ -35,17 +39,17 @@ Generated using Alexander Lenail's [NN-SVG](http://alexlenail.me/NN-SVG/).
 
 ### Inception Model
 
-![](inception_model.png)
+[![](inception_model.png)](https://dvgodoy.github.io/dl-visuals/Architectures/inception_model.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 ### Inception Modules
 
-![](inception_modules.png)
+[![](inception_modules.png)](https://dvgodoy.github.io/dl-visuals/Architectures/inception_modules.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 ## ResNet
 
 ### Residual Block
 
-![](residual.png)
+[![](residual.png)](https://dvgodoy.github.io/dl-visuals/Architectures/residual.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*

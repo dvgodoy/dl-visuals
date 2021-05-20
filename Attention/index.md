@@ -1,5 +1,7 @@
 # Attention
 
+[Back](https://dvgodoy.github.io/dl-visuals)
+
 ## Index
 
 - [Attention](#attention)
@@ -16,6 +18,8 @@
     - [Encoder](#encoder)
     - [Decoder](#decoder)
     - [Encoder+Decoder](#decoder)
+
+### **** CLICK ON THE IMAGES FOR FULL SIZE ****
 
 ## Papers
 

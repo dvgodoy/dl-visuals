@@ -1,5 +1,7 @@
 # Activation Functions
 
+[Back](https://dvgodoy.github.io/dl-visuals)
+
 ## Index
 
 - [Functions](#functions)
@@ -19,6 +21,8 @@
         - [Tanh](#transforming-twice-with-tanh)
         - [PReLU](#transforming-twice-with-prelu)
 
+### **** CLICK ON THE IMAGES FOR FULL SIZE ****
+
 ## Functions
 
 ### Sigmoid
@@ -28,68 +32,68 @@
 
 ### Tanh
 
-![](activation_tanh.png)
+[![](activation_tanh.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/activation_tanh.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ### ReLU
 
-![](activation_relu.png)
+[![](activation_relu.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/activation_relu.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ### Leaky ReLU
 
-![](activation_leaky.png)
+[![](activation_leaky.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/activation_leaky.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ### Parametric ReLU (PReLU)
 
-![](activation_prelu.png)
+[![](activation_prelu.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/activation_prelu.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ## Transformed Feature Spaces
 
 ### Single Hidden Layer
 
-![](feature_space_1hidden.png)
+[![](feature_space_1hidden.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/feature_space_1hidden.png)
 *Source: Chapter Bonus*
 
-![](feature_space_1hidden_plates.png)
+[![](feature_space_1hidden_plates.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/feature_space_1hidden_plates.png)
 *Source: Chapter Bonus*
 
 #### Transforming with Sigmoid
 
-![](act_sigmoid1.png)
+[![](act_sigmoid1.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/act_sigmoid1.png)
 *Source: Chapter Bonus*
 
-![](act_sigmoid2.png)
+[![](act_sigmoid2.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/act_sigmoid2.png)
 *Source: Chapter Bonus*
 
 #### Transforming with Tanh
 
-![](act_tanh.png)
+[![](act_tanh.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/act_tanh.png)
 *Source: Chapter Bonus*
 
 #### Transforming with ReLU
 
-![](act_relu.png)
+[![](act_relu.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/act_relu.png)
 *Source: Chapter Bonus*
 
 #### Transforming with PReLU
 
-![](act_prelu.png)
+[![](act_prelu.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/act_prelu.png)
 *Source: Chapter Bonus*
 
 ### Two Hidden Layers
 
-![](feature_space_2hidden.png)
+[![](feature_space_2hidden.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/feature_space_2hidden.png)
 *Source: Chapter Bonus*
 
 #### Transforming Twice with Tanh
 
-![](act_tanh_2hidden.png)
+[![](act_tanh_2hidden.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/act_tanh_2hidden.png)
 *Source: Chapter Bonus*
 
 #### Transforming Twice with PReLU
 
-![](act_prelu_2hidden.png)
+[![](act_prelu_2hidden.png)](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/act_prelu_2hidden.png)
 *Source: Chapter Bonus*
