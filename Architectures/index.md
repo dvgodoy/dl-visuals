@@ -1,9 +1,8 @@
 # Architectures
 
-[Back](https://dvgodoy.github.io/dl-visuals)
-
 ## Index
 
+- [Back](https://dvgodoy.github.io/dl-visuals)
 - [Alexnet](#alexnet)
 - [LeNet](#lenet)
 - [Inception](#inception)

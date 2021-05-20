@@ -1,9 +1,8 @@
 # Activation Functions
 
-[Back](https://dvgodoy.github.io/dl-visuals)
-
 ## Index
 
+- [Back](https://dvgodoy.github.io/dl-visuals)
 - [Functions](#functions)
     - [Sigmoid](#sigmoid)
     - [Tanh](#tanh)
