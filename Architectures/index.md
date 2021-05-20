@@ -1,3 +1,5 @@
+# Architectures
+
 ## Index
 
 - [Alexnet](#alexnet)
