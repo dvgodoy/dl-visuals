@@ -1,5 +1,23 @@
 # Activation Functions
 
+## Index
+
+- [Sigmoid](#sigmoid)
+- [Tanh](#tanh)
+- [ReLU](#relu)
+- [Leaky ReLU](#leaky-relu)
+- [PReLU](#prelu)
+
+- [Transformed Feature Spaces](#transformed-feature-spaces)
+    - [Single Hidden Layer](#single-hidden-layer)
+        - [Sigmoid](#transforming-with-sigmoid)
+        - [Tanh](#transforming-with-tanh)
+        - [ReLU](#transforming-with-relu)
+        - [PReLU](#transforming-with-prelu)
+    - [Two Hidden Layers](#two-hidden-layers)
+        - [Tanh](#transforming-twice-with-tanh)
+        - [PReLU](#transforming-twice-with-prelu)
+
 ## Sigmoid
 
 ![](activation_sigmoid.png)
@@ -33,21 +51,21 @@
 
 ![](feature_space_1hidden_plates.png)
 
-#### Sigmoid
+#### Transforming with Sigmoid
 
 ![](act_sigmoid1.png)
 
 ![](act_sigmoid2.png)
 
-#### Tanh
+#### Transforming with Tanh
 
 ![](act_tanh.png)
 
-#### ReLU
+#### Transforming with ReLU
 
 ![](act_relu.png)
 
-#### PReLU
+#### Transforming with PReLU
 
 ![](act_prelu.png)
 
@@ -55,10 +73,10 @@
 
 ![](feature_space_2hidden.png)
 
-#### Tanh
+#### Transforming Twice with Tanh
 
 ![](act_tanh_2hidden.png)
 
-#### PReLU
+#### Transforming Twice with PReLU
 
 ![](act_prelu_2hidden.png)
