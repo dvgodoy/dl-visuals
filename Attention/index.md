@@ -66,10 +66,10 @@
 ![](context_translate.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-![](translation_attn.png)
+![](translation_att.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-![](encdec_attn_translate.png)
+![](enc_dec_attn_translate.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ### Multi-Headed Attention
