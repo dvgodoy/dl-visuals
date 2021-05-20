@@ -24,27 +24,27 @@
 ### Sigmoid
 
 ![](activation_sigmoid.png)
-*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
+*Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ### Tanh
 
 ![](activation_tanh.png)
-*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
+*Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ### ReLU
 
 ![](activation_relu.png)
-*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
+*Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ### Leaky ReLU
 
 ![](activation_leaky.png)
-*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
+*Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ### Parametric ReLU (PReLU)
 
 ![](activation_prelu.png)
-*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
+*Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ## Transformed Feature Spaces
 
