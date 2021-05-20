@@ -1,5 +1,3 @@
-# Deep Learning Visuals
-
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 - [Go to the GitHub repository](https://github.com/dvgodoy/dl-visuals)
