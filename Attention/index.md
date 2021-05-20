@@ -1,5 +1,3 @@
-# Attention
-
 ## Index
 
 - [Attention](#attention)

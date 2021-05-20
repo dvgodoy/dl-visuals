@@ -2,6 +2,8 @@
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
+- [Go to the GitHub repository](https://github.com/dvgodoy/dl-visuals)
+
 - [Activation Functions](https://dvgodoy.github.io/dl-visuals/Activation%20Functions/index.md)
 - [Architectures](https://dvgodoy.github.io/dl-visuals/Architectures/index.md)
 - [Assorted](https://dvgodoy.github.io/dl-visuals/Assorted/index.md)
