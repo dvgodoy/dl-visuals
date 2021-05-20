@@ -2,11 +2,12 @@
 
 ## Index
 
-- [Sigmoid](#sigmoid)
-- [Tanh](#tanh)
-- [ReLU](#relu)
-- [Leaky ReLU](#leaky-relu)
-- [PReLU](#prelu)
+- [Functions](#functions)
+    - [Sigmoid](#sigmoid)
+    - [Tanh](#tanh)
+    - [ReLU](#relu)
+    - [Leaky ReLU](#leaky-relu)
+    - [PReLU](#prelu)
 
 - [Transformed Feature Spaces](#transformed-feature-spaces)
     - [Single Hidden Layer](#single-hidden-layer)
@@ -18,27 +19,29 @@
         - [Tanh](#transforming-twice-with-tanh)
         - [PReLU](#transforming-twice-with-prelu)
 
-## Sigmoid
+## Functions
+
+### Sigmoid
 
 ![](activation_sigmoid.png)
 *Sigmoid*
 
-## Tanh
+### Tanh
 
 ![](activation_tanh.png)
 *Tanh*
 
-## ReLU
+### ReLU
 
 ![](activation_relu.png)
 *ReLU*
 
-## Leaky ReLU
+### Leaky ReLU
 
 ![](activation_leaky.png)
 *Leaky ReLU*
 
-## Parametric ReLU (PReLU)
+### Parametric ReLU (PReLU)
 
 ![](activation_prelu.png)
 *PReLU*
