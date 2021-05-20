@@ -2,7 +2,7 @@
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-- [Main Page](https://dvgodoy.github.io/dl-visuals%20Functions)
+- [Main Page](https://dvgodoy.github.io/dl-visuals)
     - [Activation Functions](https://dvgodoy.github.io/dl-visuals/Activation%20Functions)
     - [Architectures](https://dvgodoy.github.io/dl-visuals/Architectures)
     - [Assorted](https://dvgodoy.github.io/dl-visuals/Assorted)
