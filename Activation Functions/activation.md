@@ -24,62 +24,72 @@
 ### Sigmoid
 
 ![](activation_sigmoid.png)
-*Sigmoid*
+*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ### Tanh
 
 ![](activation_tanh.png)
-*Tanh*
+*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ### ReLU
 
 ![](activation_relu.png)
-*ReLU*
+*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ### Leaky ReLU
 
 ![](activation_leaky.png)
-*Leaky ReLU*
+*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ### Parametric ReLU (PReLU)
 
 ![](activation_prelu.png)
-*PReLU*
+*Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ## Transformed Feature Spaces
 
 ### Single Hidden Layer
 
 ![](feature_space_1hidden.png)
+*Source: Chapter Bonus*
 
 ![](feature_space_1hidden_plates.png)
+*Source: Chapter Bonus*
 
 #### Transforming with Sigmoid
 
 ![](act_sigmoid1.png)
+*Source: Chapter Bonus*
 
 ![](act_sigmoid2.png)
+*Source: Chapter Bonus*
 
 #### Transforming with Tanh
 
 ![](act_tanh.png)
+*Source: Chapter Bonus*
 
 #### Transforming with ReLU
 
 ![](act_relu.png)
+*Source: Chapter Bonus*
 
 #### Transforming with PReLU
 
 ![](act_prelu.png)
+*Source: Chapter Bonus*
 
 ### Two Hidden Layers
 
 ![](feature_space_2hidden.png)
+*Source: Chapter Bonus*
 
 #### Transforming Twice with Tanh
 
 ![](act_tanh_2hidden.png)
+*Source: Chapter Bonus*
 
 #### Transforming Twice with PReLU
 
 ![](act_prelu_2hidden.png)
+*Source: Chapter Bonus*
