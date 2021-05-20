@@ -23,7 +23,7 @@
 
 ### Sigmoid
 
-![](activation_sigmoid.png)
+[![](activation_sigmoid.png)](activation_sigmoid.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ### Tanh
