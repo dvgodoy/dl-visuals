@@ -10,6 +10,7 @@ They are also available at the book's official repository: [https://github.com/d
 
 - [Back](https://github.com/dvgodoy/dl-visuals)
 - [RNN](#rnn)
+    - [Journey of a Hidden State](#journey-of-a-hidden-state)
     - [Stacked RNN](#stacked-rnn)
     - [Bidirectional RNN](#bidirectional-rnn)
 - [GRU](#gru)
@@ -23,6 +24,9 @@ They are also available at the book's official repository: [https://github.com/d
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn1.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.1.png)
+*Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
+
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn2.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn2.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
@@ -30,6 +34,11 @@ They are also available at the book's official repository: [https://github.com/d
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn_cell_diagram_seq.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn_cell_diagram_seq.png)
+*Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
+
+### Journey of a Hidden State
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/journey1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/journey1.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 ### Stacked RNN
@@ -47,9 +56,27 @@ They are also available at the book's official repository: [https://github.com/d
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/gru_cell.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/gru_cell.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.5.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.5.png)
+*Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.6.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.6.png)
+*Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.7.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.7.png)
+*Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
+
 ## LSTM
 
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/lstm_cell.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/lstm_cell.png)
+*Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.12.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.12.png)
+*Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.13.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.13.png)
+*Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.14.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.14.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 ## Packing Sequences

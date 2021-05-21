@@ -43,6 +43,9 @@ They are also available at the book's official repository: [https://github.com/d
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/dials_exp.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/dials_exp.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/eq09.21.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/eq09.21.png)
+*Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
+
 #### Distances
 
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/sincos_distance.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/sincos_distance.png)

@@ -38,6 +38,15 @@ They are also available at the book's official repository: [https://github.com/d
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/sublayer.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/sublayer.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.3.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.3.png)
+*Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.5.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.5.png)
+*Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.6.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.6.png)
+*Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
+
 ## Transformer
 
 ### Encoder

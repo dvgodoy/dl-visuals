@@ -19,6 +19,10 @@ They are also available at the book's official repository: [https://github.com/d
     - [Plateau](#plateau)
     - [Cyclical](#cyclical)
     - [Paths](#paths)
+- [Parameter Update](#parameter-update)
+    - [SGD vs Adam vs Momentum](#sgd-vs-adam-vs-momentum)
+    - [SGD vs Momentum vs Nesterov](#sgd-vs-momentum-vs-nesterov)
+    - [Nesterov Look-Ahead](#nesterov-look-ahead)
 
 ### **** CLICK ON THE IMAGES FOR FULL SIZE ****
 
@@ -68,6 +72,24 @@ They are also available at the book's official repository: [https://github.com/d
 
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_scheduler_paths.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_scheduler_paths.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
+
+## Parameter Update
+
+### SGD vs Adam vs Momentum
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.14.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.14.png)
+*Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
+
+### SGD vs Momentum vs Nesterov
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.19.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.19.png)
+*Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
+
+### Nesterov Look-Ahead
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.16.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.16.png)
+*Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
+
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].

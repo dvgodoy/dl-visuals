@@ -18,6 +18,11 @@ They are also available at the book's official repository: [https://github.com/d
 
 ### **** CLICK ON THE IMAGES FOR FULL SIZE ****
 
+## Tensors
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/tensors.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/tensors.png)
+*Source: [Chapter 1](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter01.ipynb)*
+
 ## Image Channels
 
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/image_channels.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/image_channels.png)

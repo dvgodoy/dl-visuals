@@ -26,6 +26,10 @@ They are also available at the book's official repository: [https://github.com/d
         - [Tanh](#transforming-twice-with-tanh)
         - [PReLU](#transforming-twice-with-prelu)
 
+- [Matrix Operations](#matrix-operations)
+    - [Without Activation Functions](#without-activation-functions)
+    - [With Activation Functions](#with-activation-functions)
+
 ### **** CLICK ON THE IMAGES FOR FULL SIZE ****
 
 ## Functions
@@ -102,6 +106,18 @@ They are also available at the book's official repository: [https://github.com/d
 
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_prelu_2hidden.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_prelu_2hidden.png)
 *Source: Chapter Bonus*
+
+## Matrix Operations
+
+### Without Activation Functions
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_equiv.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_equiv.png)
+*Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
+
+### With Activation Functions
+
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_activ.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_activ.png)
+*Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
