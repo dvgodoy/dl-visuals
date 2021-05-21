@@ -16,6 +16,7 @@ Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 - [ELMo](https://dvgodoy.github.io/dl-visuals/ELMo)
 - [Encoder](https://dvgodoy.github.io/dl-visuals/Encoder)
 - [Feed-Forward Networks](https://dvgodoy.github.io/dl-visuals/Feed-Forward%20Networks)
+- [Gradient Descent](https://dvgodoy.github.io/dl-visuals/Gradient%20Descent)
 - [Initializations and Gradient Clipping](https://dvgodoy.github.io/dl-visuals/Initializations%20and%20Clipping)
 - [LayerNorm](https://dvgodoy.github.io/dl-visuals/LayerNorm)
 - [Optimizers and Schedulers](https://dvgodoy.github.io/dl-visuals/Optimizers%20and%20Schedulers)
