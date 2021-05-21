@@ -2,7 +2,7 @@
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-- [Go to the GitHub repository](https://github.com/dvgodoy/dl-visuals)
+- [Go to Deep Learning Visual's GitHub repository](https://github.com/dvgodoy/dl-visuals)
 
 - [Activation Functions](https://dvgodoy.github.io/dl-visuals/Activation%20Functions)
 - [Architectures](https://dvgodoy.github.io/dl-visuals/Architectures)

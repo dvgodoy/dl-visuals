@@ -8,7 +8,7 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Index
 
-- [Back](https://dvgodoy.github.io/dl-visuals)
+- [Back](https://github.com/dvgodoy/dl-visuals)
 - [Functions](#functions)
     - [Sigmoid](#sigmoid)
     - [Tanh](#tanh)
