@@ -41,82 +41,82 @@ They are also available at the book's official repository: [https://github.com/d
 
 ### Tanh
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_tanh.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_tanh.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_tanh.png)
 *Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
 
 ### ReLU
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_relu.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_relu.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_relu.png)
 *Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
 
 ### Leaky ReLU
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_leaky.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_leaky.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_leaky.png)
 *Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
 
 ### Parametric ReLU (PReLU)
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_prelu.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_prelu.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_prelu.png)
 *Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
 
 ## Transformed Feature Spaces
 
 ### Single Hidden Layer
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_1hidden.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_1hidden.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_1hidden.png)
 *Source: Chapter Bonus*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_1hidden_plates.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_1hidden_plates.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_1hidden_plates.png)
 *Source: Chapter Bonus*
 
 #### Transforming with Sigmoid
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_sigmoid1.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_sigmoid1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_sigmoid1.png)
 *Source: Chapter Bonus*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_sigmoid2.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_sigmoid2.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_sigmoid2.png)
 *Source: Chapter Bonus*
 
 #### Transforming with Tanh
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_tanh.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_tanh.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_tanh.png)
 *Source: Chapter Bonus*
 
 #### Transforming with ReLU
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_relu.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_relu.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_relu.png)
 *Source: Chapter Bonus*
 
 #### Transforming with PReLU
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_prelu.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_prelu.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_prelu.png)
 *Source: Chapter Bonus*
 
 ### Two Hidden Layers
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_2hidden.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_2hidden.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/feature_space_2hidden.png)
 *Source: Chapter Bonus*
 
 #### Transforming Twice with Tanh
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_tanh_2hidden.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_tanh_2hidden.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_tanh_2hidden.png)
 *Source: Chapter Bonus*
 
 #### Transforming Twice with PReLU
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_prelu_2hidden.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_prelu_2hidden.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/act_prelu_2hidden.png)
 *Source: Chapter Bonus*
 
 ## Matrix Operations
 
 ### Without Activation Functions
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_equiv.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_equiv.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_equiv.png)
 *Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
 
 ### With Activation Functions
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_activ.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_activ.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/eq_activ.png)
 *Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
 
 This work is licensed under a

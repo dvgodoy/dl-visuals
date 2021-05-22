@@ -22,23 +22,23 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## RNN
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ## Self-Attention
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder_self_simplified.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder_self_simplified.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder_self_simplified.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder_self.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder_self.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/decoder_self.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ## Transformer
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/transf_decself.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/transf_decself.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/transf_decself.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/dec_both.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/dec_both.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/dec_both.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 This work is licensed under a

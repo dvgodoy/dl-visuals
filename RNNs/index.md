@@ -21,70 +21,70 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## RNN
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn1.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn1.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.1.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.1.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn2.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn2.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn2.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn_cell_diagram.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn_cell_diagram.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn_cell_diagram.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn_cell_diagram_seq.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn_cell_diagram_seq.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn_cell_diagram_seq.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 ### Journey of a Hidden State
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/journey1.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/journey1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/journey1.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 ### Stacked RNN
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/stacked_rnn.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/stacked_rnn.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/stacked_rnn.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 ### Bidirectional RNN
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/bidirect_rnn.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/bidirect_rnn.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/bidirect_rnn.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 ## GRU
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/gru_cell.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/gru_cell.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/gru_cell.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.5.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.5.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.5.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.6.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.6.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.6.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.7.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.7.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.7.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 ## LSTM
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/lstm_cell.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/lstm_cell.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/lstm_cell.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.12.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.12.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.12.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.13.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.13.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.13.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.14.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.14.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/eq08.14.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 ## Packing Sequences
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/packed_seq_data.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/packed_seq_data.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/packed_seq_data.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/packed_seq_inddata.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/packed_seq_inddata.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/packed_seq_inddata.png)
 *Source: [Chapter 8](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter08.ipynb)*
 
 This work is licensed under a

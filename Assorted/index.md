@@ -20,52 +20,52 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Tensors
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/tensors.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/tensors.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/tensors.png)
 *Source: [Chapter 1](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter01.ipynb)*
 
 ## Image Channels
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/image_channels.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/image_channels.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/image_channels.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/image_channels2.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/image_channels2.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/image_channels2.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ## One-Hot Encoding
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe1.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe1.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe2.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe2.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe2.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe3.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe3.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ohe3.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 ## N-grams
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ngrams.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ngrams.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/ngrams.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 ## Word2Vec
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_embed.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_embed.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_embed.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_cbow.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_cbow.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_cbow.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_logits.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_logits.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/w2v_logits.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 ## Word Embedding Arithmetic
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/embed_arithmetic.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/embed_arithmetic.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/embed_arithmetic.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 ## Kernel Trick
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/twodimensions.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/twodimensions.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Assorted/twodimensions.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 This work is licensed under a

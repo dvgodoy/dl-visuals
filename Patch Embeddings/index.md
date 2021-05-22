@@ -21,20 +21,20 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Patches
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_img.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_img.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_img.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_patches.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_patches.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_patches.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ## Sequence of Patches
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_seq.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_seq.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_seq.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ## Patch Embeddings
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_embed_patches.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_embed_patches.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Patch%20Embeddings/example_embed_patches.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 This work is licensed under a

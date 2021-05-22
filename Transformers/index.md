@@ -27,66 +27,66 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Stacked Encoders and Decoders
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/stacked_encdec.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/stacked_encdec.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/stacked_encdec.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/stacked_layers.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/stacked_layers.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/stacked_layers.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ## Sub-Layer
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/sublayer.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/sublayer.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/sublayer.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.3.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.3.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.3.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.5.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.5.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.5.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.6.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.6.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/eq10.6.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ## Transformer
 
 ### Encoder
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_encself.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_encself.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_encself.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/enc_both.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/enc_both.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/enc_both.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ### Decoder
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_decself.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_decself.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_decself.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/dec_both.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/dec_both.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/dec_both.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ### Full
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_encdecself.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_encdecself.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_encdecself.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/full_transformer.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/full_transformer.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/full_transformer.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_classes.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_classes.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/transf_classes.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ## Special Classifier Token
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/cls_hidden_state.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/cls_hidden_state.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/cls_hidden_state.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/two_cls_embeds.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/two_cls_embeds.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/two_cls_embeds.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ## Vision Transformer
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/vit_model.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/vit_model.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/vit_model.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 This work is licensed under a

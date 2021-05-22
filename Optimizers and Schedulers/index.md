@@ -28,66 +28,66 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Stochastic Gradient Descent
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgds.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgds.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgds.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ### Momentum Path
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_momentum_paths.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_momentum_paths.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_momentum_paths.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ### Nesterov Path
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_nesterov_paths.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_nesterov_paths.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_nesterov_paths.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ## Adam
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/gradients_vs_adapted.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/gradients_vs_adapted.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/gradients_vs_adapted.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ### SGD vs Adam Paths
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_adam_paths.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_adam_paths.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_adam_paths.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ## Schedulers
 
 ### Step
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_step.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_step.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_step.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ### Plateau
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_plateau.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_plateau.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_plateau.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ### Cyclical
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_cyclical.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_cyclical.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/scheduler_cyclical.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ### Paths
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_scheduler_paths.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_scheduler_paths.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/sgd_scheduler_paths.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ## Parameter Update
 
 ### SGD vs Adam vs Momentum
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.14.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.14.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.14.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ### SGD vs Momentum vs Nesterov
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.19.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.19.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.19.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ### Nesterov Look-Ahead
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.16.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.16.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Optimizers%20and%20Schedulers/eq06.16.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 

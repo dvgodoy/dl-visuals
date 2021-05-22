@@ -22,26 +22,26 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## RNN
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ## Self-Attention
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self_simplified.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self_simplified.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self_simplified.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self_detail.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self_detail.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/encoder_self_detail.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ## Transformer
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/transf_encself.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/transf_encself.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/transf_encself.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/enc_both.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/enc_both.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Encoder/enc_both.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 This work is licensed under a

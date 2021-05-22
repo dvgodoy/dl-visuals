@@ -26,34 +26,34 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Vanishing Gradients
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/vanishing_violins.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/vanishing_violins.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/vanishing_violins.png)
 *Source: [Chapter Extra](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/ChapterExtra.ipynb)*
 
 ## Initialization Schemes
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/activations_init.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/activations_init.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/activations_init.png)
 *Source: [Chapter Extra](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/ChapterExtra.ipynb)*
 
 ### Comparing against BatchNorm
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/init_vs_bn.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/init_vs_bn.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/init_vs_bn.png)
 *Source: [Chapter Extra](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/ChapterExtra.ipynb)*
 
 ## Gradient Clipping
 
 ### Value Clipping
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/clip_value.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/clip_value.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/clip_value.png)
 *Source: [Chapter Extra](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/ChapterExtra.ipynb)*
 
 ### Norm Clipping
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/clip_norm.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/clip_norm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/clip_norm.png)
 *Source: [Chapter Extra](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/ChapterExtra.ipynb)*
 
 ### Using Hooks
 
-![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/gradients_clip_vs_hook.png)
+[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/gradients_clip_vs_hook.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Initializations%20and%20Clipping/gradients_clip_vs_hook.png)
 *Source: [Chapter Extra](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/ChapterExtra.ipynb)*
 
 This work is licensed under a
