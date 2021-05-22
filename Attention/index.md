@@ -77,9 +77,6 @@ They are also available at the book's official repository: [https://github.com/d
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)
-*Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
-
 #### Decoder
 
 [![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.14.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.14.png)
