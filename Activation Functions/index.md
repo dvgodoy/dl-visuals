@@ -36,7 +36,7 @@ They are also available at the book's official repository: [https://github.com/d
 
 ### Sigmoid
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_sigmoid.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_sigmoid.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Activation%20Functions/activation_sigmoid.png)
 *Source: [Chapter 4](https://raw.githubusercontent.com/dvgodoy/PyTorchStepByStep/master/Chapter04.ipynb)*
 
 ### Tanh
