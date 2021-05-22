@@ -18,7 +18,6 @@ You can easily navigate through the pages and indices, and click on the desired 
 - [Architectures](https://dvgodoy.github.io/dl-visuals/Architectures)
 - [Assorted](https://dvgodoy.github.io/dl-visuals/Assorted)
 - [Attention](https://dvgodoy.github.io/dl-visuals/Attention)
-- [Assorted](https://dvgodoy.github.io/dl-visuals/Assorted)
 - [Batch Norm](https://dvgodoy.github.io/dl-visuals/BatchNorm)
 - [BERT](https://dvgodoy.github.io/dl-visuals/BERT)
 - [Classification](https://dvgodoy.github.io/dl-visuals/Classification)
