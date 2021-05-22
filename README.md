@@ -38,7 +38,7 @@ You can easily navigate through the pages and indices, and click on the desired 
 - [Seq2Seq](https://dvgodoy.github.io/dl-visuals/Seq2Seq)
 - [Transformers](https://dvgodoy.github.io/dl-visuals/Transformers)
 
-## What do I have to do?
+## How Can I Use Them?
 
 **DISCLAIMER: this is NOT legal advice, you should always read the license yourself!**
 
