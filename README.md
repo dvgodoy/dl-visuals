@@ -40,7 +40,7 @@ You can easily navigate through the pages and indices, and click on the desired 
 
 ## What do I have to do?
 
-** DISCLAIMER: this is NOT legal advice, you should always read the license yourself! **
+**DISCLAIMER: this is NOT legal advice, you should always read the license yourself!**
 
 In a nutshell, you're allowed to use (or adapt) these images in your own materials, even for commercial purposes, as long as you attribute it.
 
@@ -51,6 +51,7 @@ Here are some examples of both images and attributions:
 ### Logistic Regression
 
 ![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/logistic_model.png)
+
 Image by [dvgodoy](https://github.com/dvgodoy/dl-visuals) / [CC BY](https://creativecommons.org/licenses/by/4.0/)
 
 ### RNN
