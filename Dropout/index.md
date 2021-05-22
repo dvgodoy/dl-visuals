@@ -16,15 +16,15 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Model
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_paper.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_paper.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_paper.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 ## Output Distribution
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_distrib_p50.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_distrib_p50.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_distrib_p50.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_distrib_ps.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_distrib_ps.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Dropout/dropout_distrib_ps.png)
 *Source: [Chapter 6](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter06.ipynb)*
 
 This work is licensed under a

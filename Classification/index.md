@@ -21,52 +21,52 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Logistic Regression
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/logistic_model.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/logistic_model.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/logistic_model.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ### Odds Ratio and Sigmoid
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/odds.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/odds.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/odds.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/flipped_log_odds.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/flipped_log_odds.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/flipped_log_odds.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ## Binary Classification
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/classification_relu2.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/classification_relu2.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/classification_relu2.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
 ## Multiclass Classification
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/classification_softmax.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/classification_softmax.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/classification_softmax.png)
 *Source: [Chapter 5](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter05.ipynb)*
 
 ## Decision Boundary
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/boundary_train.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/boundary_train.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/boundary_train.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/boundary_val.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/boundary_val.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/boundary_val.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ## Classification Threshold
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line1.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line1.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ### Confusion Matrix
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line2.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line2.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line2.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line3.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line3.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/prob_line3.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/thresh30.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/thresh30.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/thresh30.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/thresh70.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/thresh70.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/thresh70.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 This work is licensed under a

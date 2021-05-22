@@ -22,51 +22,51 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Gradients
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface_fixedb.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface_fixedb.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface_fixedb.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface_fixedw.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface_fixedw.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/surface_fixedw.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/gradient_parm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/gradient_parm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/gradient_parm.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
 ## Standardizing Features
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/scaled_x.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/scaled_x.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/scaled_x.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
 ### Loss Surfaces
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/scaled_surface.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/scaled_surface.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/scaled_surface.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/bad_surface.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/bad_surface.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/bad_surface.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
 ## Learning Rates
 
 ### Small
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/small_lr.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/small_lr.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/small_lr.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
 ### Large
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/big_lr.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/big_lr.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/big_lr.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
 ### Very Large
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/verybig_lr.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/verybig_lr.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/verybig_lr.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
 ## Paths
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/paths.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/paths.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Gradient%20Descent/paths.png)
 *Source: [Chapter 0](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter00.ipynb)*
 
 This work is licensed under a

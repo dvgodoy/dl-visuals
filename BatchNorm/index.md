@@ -26,24 +26,24 @@ They are also available at the book's official repository: [https://github.com/d
 
 ### Before BatchNorm
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/before_batchnorm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/before_batchnorm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/before_batchnorm.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 ### After BatchNorm
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/after_batchnorm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/after_batchnorm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/after_batchnorm.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 ## Comparison
 
 ### BatchNorm vs Initialization Scheme
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/init_vs_bn.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/init_vs_bn.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/init_vs_bn.png)
 *Source: [Chapter Extra](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/ChapterExtra.ipynb)*
 
 ### BatchNorm vs LayerNorm
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/layer_vs_batch_norm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/layer_vs_batch_norm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BatchNorm/layer_vs_batch_norm.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 This work is licensed under a

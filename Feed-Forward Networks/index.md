@@ -17,26 +17,26 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Logistic Regression
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/logistic_model.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/logistic_model.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/logistic_model.png)
 *Source: [Chapter 3](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter03.ipynb)*
 
 ## Binary Classification
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/classification_relu2.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/classification_relu2.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/classification_relu2.png)
 *Source: [Chapter 4](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter04.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_1hidden.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_1hidden.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_1hidden.png)
 *Source: Bonus Chapter*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_1hidden_plates.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_1hidden_plates.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_1hidden_plates.png)
 *Source: Bonus Chapter*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_2hidden.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_2hidden.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/feature_space_2hidden.png)
 *Source: Bonus Chapter*
 
 ## Multiclass Classification
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/classification_softmax.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/classification_softmax.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Feed-Forward%20Networks/classification_softmax.png)
 *Source: [Chapter 5](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter05.ipynb)*
 
 This work is licensed under a

@@ -25,19 +25,19 @@ They are also available at the book's official repository: [https://github.com/d
 
 ### Before LayerNorm
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/before_layer_norm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/before_layer_norm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/before_layer_norm.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ### After LayerNorm
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/after_layer_norm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/after_layer_norm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/after_layer_norm.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ## Comparison
 
 ### BatchNorm vs LayerNorm
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/layer_vs_batch_norm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/layer_vs_batch_norm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/LayerNorm/layer_vs_batch_norm.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 This work is licensed under a

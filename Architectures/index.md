@@ -28,14 +28,14 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Alexet
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/alexnet.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/alexnet.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/alexnet.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 Generated using Alexander Lenail's [NN-SVG](http://alexlenail.me/NN-SVG/).
 
 ## LeNet
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/architecture_lenet.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/architecture_lenet.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/architecture_lenet.png)
 *Source: [Chapter 5](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter05.ipynb)*
 
 Generated using Alexander Lenail's [NN-SVG](http://alexlenail.me/NN-SVG/).
@@ -44,19 +44,19 @@ Generated using Alexander Lenail's [NN-SVG](http://alexlenail.me/NN-SVG/).
 
 ### Inception Model
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/inception_model.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/inception_model.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/inception_model.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 ### Inception Modules
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/inception_modules.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/inception_modules.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/inception_modules.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 ## ResNet
 
 ### Residual Block
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/residual.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/residual.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Architectures/residual.png)
 *Source: [Chapter 7](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter07.ipynb)*
 
 This work is licensed under a

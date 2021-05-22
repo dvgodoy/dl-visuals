@@ -22,23 +22,23 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## RNN
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encoder_decoder.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encoder_decoder.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encoder_decoder.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ## Attention
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encdec_attn.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encdec_attn.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encdec_attn.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/enc_dec_attn_translate.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/enc_dec_attn_translate.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/enc_dec_attn_translate.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ## Self-Attention
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/shifted_target.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/shifted_target.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/shifted_target.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encdec_self_simplified.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encdec_self_simplified.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Seq2Seq/encdec_self_simplified.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 This work is licensed under a

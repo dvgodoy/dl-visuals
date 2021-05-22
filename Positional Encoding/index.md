@@ -18,40 +18,40 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Motivation
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/encoder_lost_seq.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/encoder_lost_seq.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/encoder_lost_seq.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ## Encoding
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_mult.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_mult.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_mult.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_deg.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_deg.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_deg.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_sincos.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_sincos.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/posenc_modnorm_sincos.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/dials_binary.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/dials_binary.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/dials_binary.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ### Sines and Cosines
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/pe_sine_cosine.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/pe_sine_cosine.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/pe_sine_cosine.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/dials_exp.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/dials_exp.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/dials_exp.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/eq09.21.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/eq09.21.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/eq09.21.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 #### Distances
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/sincos_distance.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/sincos_distance.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/sincos_distance.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/pe_distance.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/pe_distance.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Positional%20Encoding/pe_distance.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 This work is licensed under a

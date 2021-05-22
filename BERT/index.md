@@ -23,24 +23,24 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Input Embeddings
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_input_embed.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_input_embed.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_input_embed.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 ## Contextual Word Embeddings
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_embeddings.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_embeddings.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_embeddings.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 ## Pretraining Tasks
 
 ### Masked Language Modeling
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_mlm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_mlm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_mlm.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 ### Next Sentence Prediction
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_nsp.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_nsp.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/BERT/bert_nsp.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 This work is licensed under a

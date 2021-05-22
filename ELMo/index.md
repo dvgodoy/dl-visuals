@@ -20,12 +20,12 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Architecture
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/ELMo/elmo_lstm.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/elmo_lstm.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/ELMo/elmo_lstm.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 ## Contextual Word Embeddings
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/ELMo/elmo_embed.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Decoder/elmo_embed.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/ELMo/elmo_embed.png)
 *Source: [Chapter 11](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter11.ipynb)*
 
 This work is licensed under a

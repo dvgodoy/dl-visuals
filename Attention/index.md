@@ -39,147 +39,147 @@ They are also available at the book's official repository: [https://github.com/d
 
 ### Scaled Dot Product
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/aiayn_dot.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/aiayn_dot.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/aiayn_dot.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.3.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.3.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.3.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.4.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.4.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.4.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.5.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.5.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.5.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.8.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.8.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.8.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 #### Alignment Scores
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/score_alignment.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/score_alignment.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/score_alignment.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 #### Context Vector
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/context_vector.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/context_vector.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/context_vector.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multiple_keys_context.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multiple_keys_context.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multiple_keys_context.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ### Attention Scores
 
 #### Encoder
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.11.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.11.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.11.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.12.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 #### Decoder
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.14.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.14.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.14.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.15.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.15.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.15.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.16.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.16.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.16.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ##### Masked
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.17.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.17.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.17.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ### Cross-Attention
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attention.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attention.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attention.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/cross_attn.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/cross_attn.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/cross_attn.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 #### Encoder+Decoder+Cross-Attention
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encdec_attn.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encdec_attn.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encdec_attn.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 #### Translation Example
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/kq_matches.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/kq_matches.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/kq_matches.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.1.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.1.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/eq09.1.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/context_translate.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/context_translate.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/context_translate.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/score_alignment_translate.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/score_alignment_translate.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/score_alignment_translate.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/translation_att.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/translation_att.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/translation_att.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/enc_dec_attn_translate.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/enc_dec_attn_translate.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/enc_dec_attn_translate.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 ### Multi-Headed Attention
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/aiayn_multihead.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/aiayn_multihead.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/aiayn_multihead.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 #### Wide Attention
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multiattn.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multiattn.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multiattn.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 #### Narrow Attention
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multihead_chunking.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multihead_chunking.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/multihead_chunking.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attn_narrow_first_head.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attn_narrow_first_head.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attn_narrow_first_head.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attn_narrow_2heads.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attn_narrow_2heads.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/attn_narrow_2heads.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ## Self-Attention
 
 ### Self-Attention Encoder
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self_simplified.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self_simplified.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self_simplified.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self_detail.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self_detail.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encoder_self_detail.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/enc_both.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/enc_both.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/enc_both.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ### Self-Attention Decoder
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/decoder_self_simplified.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/decoder_self_simplified.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/decoder_self_simplified.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/decoder_self.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/decoder_self.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/decoder_self.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/dec_both.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/dec_both.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/dec_both.png)
 *Source: [Chapter 10](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter10.ipynb)*
 
 ### Encoder+Decoder
 
-[![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encdec_self_simplified.png)](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encdec_self_simplified.png)
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Attention/encdec_self_simplified.png)
 *Source: [Chapter 9](https://github.com/dvgodoy/PyTorchStepByStep/blob/master/Chapter09.ipynb)*
 
 This work is licensed under a
