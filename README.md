@@ -4,11 +4,11 @@ Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This repository was inspired by the [ML Visuals](https://github.com/dair-ai/ml-visuals) repository maintained by [dair.ai](https://dair.ai/).
 
-**Deep Learning Visuals** contains **215 unique images** divided in **23 categories** (some images may appear in more than one category) that wered made FREE TO USE in your own blog post, slides, or papers under the CC-BY license.
+**Deep Learning Visuals** contains **215 unique images** divided in **23 categories** (some images may appear in more than one category). These images can be FREELY USED in your own blog posts, slides, presentations, or papers under the CC-BY license.
 
-You can easily navigate through the pages and indices, and click on the desired image to visualize its full size.
+You can easily navigate through the pages and indices, and click on the desired image to visualize it in full size.
 
-All the images were originally published in the book ["Deep Learning with PyTorch Step-by-Step: A Beginner's Guide"](https://leanpub.com/pytorch).
+All the images were originally published in my book ["Deep Learning with PyTorch Step-by-Step: A Beginner's Guide"](https://leanpub.com/pytorch).
 
 - [Activation Functions](https://dvgodoy.github.io/dl-visuals/Activation%20Functions)
 - [Architectures](https://dvgodoy.github.io/dl-visuals/Architectures)
@@ -33,6 +33,10 @@ All the images were originally published in the book ["Deep Learning with PyTorc
 - [RNNs](https://dvgodoy.github.io/dl-visuals/RNNs)
 - [Seq2Seq](https://dvgodoy.github.io/dl-visuals/Seq2Seq)
 - [Transformers](https://dvgodoy.github.io/dl-visuals/Transformers)
+
+## Examples
+
+
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
