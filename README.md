@@ -4,11 +4,15 @@ Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This repository was inspired by the [ML Visuals](https://github.com/dair-ai/ml-visuals) repository maintained by [dair.ai](https://dair.ai/).
 
-**Deep Learning Visuals** contains **215 unique images** divided in **23 categories** (some images may appear in more than one category). These images can be FREELY USED in your own blog posts, slides, presentations, or papers under the CC-BY license.
+**Deep Learning Visuals** contains **215 unique images** divided in **23 categories** (some images may appear in more than one category). All the images were originally published in my book ["Deep Learning with PyTorch Step-by-Step: A Beginner's Guide"](https://leanpub.com/pytorch).
 
-You can easily navigate through the pages and indices, and click on the desired image to visualize it in full size.
+## Can I Freely Use These Images?
 
-All the images were originally published in my book ["Deep Learning with PyTorch Step-by-Step: A Beginner's Guide"](https://leanpub.com/pytorch).
+Sure, these images can be FREELY USED in your own blog posts, slides, presentations, or papers under the CC-BY license.
+
+## Awesome, where are they?
+
+You can easily navigate through the pages and indices, and click on the desired image to visualize it in full size:
 
 - [Activation Functions](https://dvgodoy.github.io/dl-visuals/Activation%20Functions)
 - [Architectures](https://dvgodoy.github.io/dl-visuals/Architectures)
@@ -34,9 +38,30 @@ All the images were originally published in my book ["Deep Learning with PyTorch
 - [Seq2Seq](https://dvgodoy.github.io/dl-visuals/Seq2Seq)
 - [Transformers](https://dvgodoy.github.io/dl-visuals/Transformers)
 
-## Examples
+## What do I have to do?
 
+** DISCLAIMER: this is NOT legal advice, you should always read the license yourself! **
 
+In a nutshell, you're allowed to use (or adapt) these images in your own materials, even for commercial purposes, as long as you attribute it.
+
+Here is a quick guide on [Best Practices for Attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
+
+Here are some examples of both images and attributions:
+
+### Logistic Regression
+
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Classification/logistic_model.png)
+Image by [dvgodoy](https://github.com/dvgodoy/dl-visuals) / [CC BY](https://creativecommons.org/licenses/by/4.0/)
+
+### RNN
+
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/RNNs/rnn2.png)
+Image by [dvgodoy](https://github.com/dvgodoy/dl-visuals) / [CC BY](https://creativecommons.org/licenses/by/4.0/)
+
+### Transformer
+
+![](https://raw.githubusercontent.com/dvgodoy/dl-visuals/main/Transformers/full_transformer.png)
+Image by [dvgodoy](https://github.com/dvgodoy/dl-visuals) / [CC BY](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
