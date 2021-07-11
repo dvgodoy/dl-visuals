@@ -16,7 +16,7 @@ They are also available at the book's official repository: [https://github.com/d
     - [Decoder](#decoder)
     - [Full](#full)
 - [Special Classifier Token](#special-classifier-token)
-- [Vision Transformer (ViTs)](#vision-transformer)
+- [Vision Transformer (ViT)](#vision-transformer)
 
 ### **** CLICK ON THE IMAGES FOR FULL SIZE ****
 

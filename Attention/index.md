@@ -19,14 +19,14 @@ They are also available at the book's official repository: [https://github.com/d
 	            - [Masked](#masked)
 	    - [Translation Example](#translation-example)
 	- [Cross-Attention](#cross-attention)
-	    - [Encoder + Decoder + Cross-Attention](#encoder+decoder+cross-attention)
+	    - [Encoder + Decoder + Cross-Attention](#encoderdecodercross-attention)
 	- [Multi-Headed Attention](#multi-headed-attention)
 	    - [Wide](#wide-attention)
 	    - [Narrow](#narrow-attention)
 - [Self-Attention](#self-attention)
     - [Self-Attention Encoder](#self-attention-encoder)
     - [Self-Attention Decoder](#self-attention-decoder)
-    - [Encoder+Decoder](#decoder)
+    - [Encoder+Decoder](#encoderdecoder)
 
 ### **** CLICK ON THE IMAGES FOR FULL SIZE ****
 
